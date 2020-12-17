@@ -1,0 +1,5 @@
+string name = "David"
+String name2 = "Sam" 
+if(name == "David"){
+  print(name + name2)
+  }
